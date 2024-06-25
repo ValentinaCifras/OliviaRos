@@ -1,0 +1,131 @@
+.body {
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-expand-lg {
+    background: #373A3C;
+}
+
+.navbar-brand {
+    margin-left: 160px;
+}
+
+#navbarNav {
+    margin-right: 150px;
+}
+
+.bg-hero-img {
+    background-image: url("../img/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 630px;
+}
+
+.bg-hero-img h1 {
+    color: #fff;
+    font-size: 70px;
+    font-weight: 500;
+    letter-spacing: 0,7px;
+
+}
+
+.bg-hero-img p {
+    color: #fff;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.botoncontacto {
+    background-color: #17A2B8;
+    font-size: 16px;
+    color: #fff;
+    border-color: #17A2B8;
+    border-radius: 7px;
+}
+
+.botontrabajo {
+    background-color: transparent;
+    border-color: #17A2B8;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 7px;
+}
+
+.texto {
+    width: 616px;
+    height: 246px;
+}
+
+.textoyboton .texto1 {
+     display: block;
+     max-width: 600px;
+     margin-left: 500px;
+     padding-top: 200px;
+     
+}
+
+.textoyboton .boton {
+    margin-left: 850px;
+
+}
+
+.container h2 {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.container p {
+    font-size: 16px;
+}
+
+.trabajos {
+    background: #17A2B8;
+}
+
+.trabajos h2 {
+    font-size: 50px;
+}
+
+.contactame h2 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.contactame p {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.footer {
+    background: #0f0f0f;
+    font-size: 16px;   
+}
+
+.color-boton {
+    background: #17A2B8;
+    color: #fff;
+    border-color: #fff;
+    border-radius: 7px;
+}
+
+.colorboton {
+    background-color: #fff;
+    color: #17A2B8;
+    border-color: #17A2B8;
+    border-radius: 7px;
+}
+
+.texto-contacto {
+    max-width: 900px;
+}
+
+.icono {
+    font-size: 50px;
+}
+
+.imagen-tarjeta {
+    width: 100%;
+    height: 200px; /* Ajusta la altura según tus preferencias */
+    object-fit: cover; /* Para mantener la relación de aspecto y recortar la imagen */
+}
+
+   
